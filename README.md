@@ -1,4 +1,4 @@
-# GoogleKeepClone
+# Keeper
 A Google Keep Clone (without Authentication). This is a MERN Stack Web Application. The user can add and delete notes.
 
 ## Requirements
