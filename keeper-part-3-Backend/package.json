@@ -1,10 +1,11 @@
 {
-  "name": "keeper-part-3-Backend",
+  "name": "keeper-part-3-backend",
   "version": "1.0.0",
   "description": "",
   "main": "backend.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon backend.js"
   },
   "keywords": [],
   "author": "",
